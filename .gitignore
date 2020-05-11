@@ -27,3 +27,9 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+.idea
+tmpg.github.io.iml
+Gemfile.lock
+dev-piu.key
+dev-piu-bundle.crt
