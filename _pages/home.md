@@ -9,8 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download Resume PDF"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2">Latest release v4.19.2</a></small>
+  Engineering a bigger box to think outside of...
 ---
 
 
