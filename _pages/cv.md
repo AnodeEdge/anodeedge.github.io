@@ -2,24 +2,17 @@
 layout: single
 permalink: /cv/
 title: "Cirriculum Vitæ"
+header:
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 toc: true
 toc_sticky: true
 toc_label: "Shortcuts"
-# cert_gallery:
-#   - url: https://www.youracclaim.com/badges/f8892d73-2d74-4b9e-a337-25f86813604c/public_url
-#     image_path: /assets/images/AWSCSAA.png
-#     alt: "AWS Solutions Architect - Associate"
-#     title: "AWS Solutions Architect - Associate"
-#   - url: https://www.youracclaim.com/badges/370c32ab-bfd2-4208-8901-e9155b6eb969/public_url
-#     image_path: /assets/images/PCEP.png
-#     alt: "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
-#     title: "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
-# <!-- {% include gallery id="cert_gallery" %} -->
-# excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2020-05-13T12:15:22-04:00
 author_profile: true
 ---
-
+<a href="#" class="btn btn--info btn--large">Click Here to download Resume PDF</a>
 ## Career Objective
 
 ## Licenses and Certifications
@@ -29,7 +22,7 @@ author_profile: true
 * [Licensed Professional Engineer - NJ](https://newjersey.mylicense.com/verification/Search.aspx?facility=N)
 * [Amateur Radio License - General Operator Class ](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3110536)
 
-## Skills
+## Skills and Tools
 
 ## Work and Professional Experience
 ### Arcadis - Staff Electrical Engineer
@@ -89,9 +82,9 @@ PSE&G Solar4All Project
 *June 2010 - Aug. 2010*  
 *Jersey City, New Jersey*  
   
-• Utilized TurboCAD to generate drawings of property.
-• Drafted Remedial Action Reports for NJDEP Permitting
-• Provided basic IT support  
+• Utilized TurboCAD to generate drawings of property.  
+• Drafted Remedial Action Reports for NJDEP Permitting  
+• Provided basic IT support   
 
 ## Education
 ![Stevens](/assets/images/stevens.png){: style="float: left; margin-right: 2em" }
