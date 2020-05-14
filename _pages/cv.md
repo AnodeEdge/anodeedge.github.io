@@ -12,15 +12,15 @@ toc_label: "Shortcuts"
 last_modified_at: 2020-05-13T12:15:22-04:00
 author_profile: true
 ---
-<a href="#" class="btn btn--info btn--large">Click Here to download Resume PDF</a>
+<a href="#" class="btn btn--info btn--large">Click Here to Download Resume PDF</a>
 ## Career Objective
 
 ## Licenses and Certifications
 
-* [Amazon Web Services (AWS) - Solutions Architect Associate](https://www.youracclaim.com/badges/f8892d73-2d74-4b9e-a337-25f86813604c/public_url)  
-* [PCEP – Certified Entry-Level Python Programmer](https://www.youracclaim.com/badges/370c32ab-bfd2-4208-8901-e9155b6eb969/public_url)
-* [Licensed Professional Engineer - NJ](https://newjersey.mylicense.com/verification/Search.aspx?facility=N)
-* [Amateur Radio License - General Operator Class ](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3110536)
+• [Amazon Web Services (AWS) - Solutions Architect Associate](https://www.youracclaim.com/badges/f8892d73-2d74-4b9e-a337-25f86813604c/public_url)   
+• [PCEP – Certified Entry-Level Python Programmer](https://www.youracclaim.com/badges/370c32ab-bfd2-4208-8901-e9155b6eb969/public_url)  
+• [Licensed Professional Engineer - NJ](https://newjersey.mylicense.com/verification/Search.aspx?facility=N)  
+• [Amateur Radio License - General Operator Class ](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3110536)  
 
 ## Skills and Tools
 
