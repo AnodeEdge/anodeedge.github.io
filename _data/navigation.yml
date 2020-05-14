@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "./about-me"
+  - title: "~/about-me"
     url: /about/
-  - title: "./resume-cv"
+  - title: "~/resume-cv"
     url: /cv/
-  - title: "./blog"
+  - title: "~/blog"
     url: /blog/

@@ -1,38 +1,111 @@
 ---
 layout: single
-classes: wide
 permalink: /cv/
-title: "Cirriculum Vitae"
+title: "Cirriculum Vitæ"
+toc: true
+toc_sticky: true
+toc_label: "Shortcuts"
+# cert_gallery:
+#   - url: https://www.youracclaim.com/badges/f8892d73-2d74-4b9e-a337-25f86813604c/public_url
+#     image_path: /assets/images/AWSCSAA.png
+#     alt: "AWS Solutions Architect - Associate"
+#     title: "AWS Solutions Architect - Associate"
+#   - url: https://www.youracclaim.com/badges/370c32ab-bfd2-4208-8901-e9155b6eb969/public_url
+#     image_path: /assets/images/PCEP.png
+#     alt: "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
+#     title: "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
+# <!-- {% include gallery id="cert_gallery" %} -->
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2020-05-13T12:15:22-04:00
+author_profile: true
 ---
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
+## Career Objective
+
+## Licenses and Certifications
+
+* [Amazon Web Services (AWS) - Solutions Architect Associate](https://www.youracclaim.com/badges/f8892d73-2d74-4b9e-a337-25f86813604c/public_url)  
+* [PCEP – Certified Entry-Level Python Programmer](https://www.youracclaim.com/badges/370c32ab-bfd2-4208-8901-e9155b6eb969/public_url)
+* [Licensed Professional Engineer - NJ](https://newjersey.mylicense.com/verification/Search.aspx?facility=N)
+* [Amateur Radio License - General Operator Class ](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3110536)
+
+## Skills
+
+## Work and Professional Experience
+### Arcadis - Staff Electrical Engineer
+![Arcadis](/assets/images/arcadis.png){: style="float: left; margin-right: 2em" } 
+*May 2017 - Present*  
+*White Plains, New York*    
+  
+• Prepared and Evaluated Cost Estimates for Cable, Conduit, Labor, and Electrical Equipment.   
+• Utilized AutoCAD MEP to generate Plan Drawings, One-Diagrams, Front Views, Control Diagrams, and Block Diagrams.   
+• Managed Designers and Drafters to design and generate drawings and schematics.   
+• Performed Site Visits and Walkdowns to identify and address plant and site-specific details.   
+• Generated SKM Models of electrical distribution and performed Load Flow, Short Circuit, Relay Coordination, and Arc Flash studies.   
+• Coordinated with multiple engineering disciplines for the completion of complex projects.   
+• Provided oversight and delegated tasks to drafters and designers.   
+
+### AECOM - Electrical Engineer I-IV
+![AECOM](/assets/images/aecom.png){: style="float: left; margin-right: 2em" }
+*June 2012 - May 2017*  
+*Princeton, New Jersey*    
+  
+480V Switchgear/MCC Replacement Project, Hydro Plants  
+• Prepared Load Flow, Short Circuit, Relay Coordination, and Arc-Flash calculations and studies using ETAP 12.5.0  
+• Assisted in creating specification documents for electrical distribution equipment  
+• Checked and Reviewed vendor prints  
+  
+Communications Upgrade Project  
+• Assisted in managing the engineering, procurement, and installation of a microwave system. Equipment includes 105 microwave radio hops, 10 fiber optic nodes, 50 pieces of digital cross connect   equipment, and an overall network management system.    
+• Conducted Factory Acceptance Test on racks, equipment, and software configuration.  
+• Performed preliminary grounding calculation for equipment sizing.  
+• Prepared engineering documents and drafted M.S. Visio drawings and modified AutoCAD drawings for Block & Level diagrams, Rack Views, and Traffic Plans.  
+  
+Power Line Carrier Relaying Modification for Substation  
+• Revised existing DC Schematics, AC Schematics, and Rack Front Views for line protection change.  
+• Designed new DC Schematics and Wiring diagrams per new relaying equipment and racks based on reference drawings.  
+  
+Substation 69kV Upgrade Project  
+• Reviewed drawings, vendor drawings, specifications, and calculations  
+• Drafted control house specifications for four substations.  
+  
+Diesel Generator Calculation for Nuclear Power Plant  
+• Completed model on AC systems using ETAP 7.1 The calculation evaluated a supplemental diesel generator and additional ancillary loads versus various voltage and current acceptance criteria. Tests   included load flow analysis, short circuit analysis, and static motor starting analysis.  
+  
+Battery Sizing Calculation  
+• Generated Control System Diagrams in ETAP 7.1 for Battery Sizing for Nuclear Power Plant  
+
+### URS Corporation - Electrical Engineering Intern
+![URS](/assets/images/urs.png){: style="float: left; margin-right: 2em" }
+*July 2011 - Aug. 2011*  
+*Princeton, New Jersey*  
+  
+PSE&G Solar4All Project  
+• Inspected pole mounted photovoltaics for damage, placement, and deployment per requirements and specifications  
+• Generated reports of data and observations of solar panel field inspections  
+
+### Tadco Engineering & Environmental Serivces, LLC. - Engineering Intern
+![Tadco](/assets/images/tadco.png){: style="float: left; margin-right: 2em" }
+*June 2010 - Aug. 2010*  
+*Jersey City, New Jersey*  
+  
+• Utilized TurboCAD to generate drawings of property.
+• Drafted Remedial Action Reports for NJDEP Permitting
+• Provided basic IT support  
+
+## Education
+![Stevens](/assets/images/stevens.png){: style="float: left; margin-right: 2em" }
+### Stevens Institute of Technology   
+*Sept. 2008 - May 2012*  
+**Bachelors of Engineering**  
+**Electrical Engineering**   
+**GPA: 3.58 with Honors**   
+ 
+Activites and Societies: 
+Honor Board, 
+Alpha Phi Omega, 
+Korean Student Association, 
+Chinese Student Association, 
+Amateur Radio Club,
+
+## Affiliations
