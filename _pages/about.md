@@ -1,17 +1,18 @@
 ---
 layout: single
-classes: wide
+# classes: wide
 permalink: /about/
 title: "Solving Problems and Working on the Cutting Edge"
-# last_modified_at: 2020-05-13T12:15:22-04:00
+last_modified_at: 2020-05-19T12:15:22-04:00
 author_profile: true
 ---
+\
 A skilled and creative problem solver, I understand how to take both a wide and a narrow look at situations in order to figure out how to navigate them efficiently. I am passionate about technology, finding inspiration in each new project that I take on, and it was the challenge that initially drew me to electrical engineering, the field where I started my career. Seeing the breadth of opportunities available in the software development field, I have since worked towards pivoting to DevOps and Site Reliability, and I am eager to participate in unique and cutting-edge projects.
-
+{: style="text-align: justify" } 
 Currently, I work as an electrical engineer with more than eight years, accruing a wealth of experience applicable not only to electrical engineering but to technology and analysis in general. Working in a highly collaborative field, I have developed a sense of how teams work effectively. I have also extensively researched and studied the technology topics that I have found most interesting, including high availability architecture, CI/CD pipelines, and 3D printing. I have spent significant time working with each of these interests on my own: overseeing 3D prints, deploying apps, and earning an AWS Solutions Architect Associate Certification. Although I have earned my income as an electrical engineer over the past decade, technology has remained my primary motivation.
-
+{: style="text-align: justify" } 
 Throughout my career, I have overseen projects in multiple environments and industries, including fossil, hydro, nuclear power plants, substations, and wastewater treatment plants. I am deeply flexible, taking to new projects quickly and approaching problems analytically. Although DevOps is a shift for me, it is a shift for which I have spent years preparing, the mindsets and the strategies that I have honed, readily applicable to the technology projects that I hope to take on. 
-
+{: style="text-align: justify" } 
 <!-- In general, organize and categorize your purposes  -->
 <!-- This language is very software dev/web dev orientated. Use language that focuses on devops priorities and core values -->
 <!-- A skilled and creative problem solver, Scott understands how to take both a wide and a narrow look at situations in order to figure out how to navigate them efficiently. He is passionate about technology, finding inspiration in each new project that he takes on, and it was the challenge that initially drew him to electrical engineering, the field where he started his career. Seeing the breadth of opportunities available in the software development field, he has since pivoted to DevOps, and he is eager to participate in unique and cutting-edge projects.
