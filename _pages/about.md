@@ -6,7 +6,7 @@ title: "Solving Problems and Working on the Cutting Edge"
 last_modified_at: 2020-05-19T12:15:22-04:00
 author_profile: true
 ---
-\
+  
 A skilled and creative problem solver, I understand how to take both a wide and a narrow look at situations in order to figure out how to navigate them efficiently. I am passionate about technology, finding inspiration in each new project that I take on, and it was the challenge that initially drew me to electrical engineering, the field where I started my career. Seeing the breadth of opportunities available in the software development field, I have since worked towards pivoting to DevOps and Site Reliability, and I am eager to participate in unique and cutting-edge projects.
 {: style="text-align: justify" } 
 Currently, I work as an electrical engineer with more than eight years, accruing a wealth of experience applicable not only to electrical engineering but to technology and analysis in general. Working in a highly collaborative field, I have developed a sense of how teams work effectively. I have also extensively researched and studied the technology topics that I have found most interesting, including high availability architecture, CI/CD pipelines, and 3D printing. I have spent significant time working with each of these interests on my own: overseeing 3D prints, deploying apps, and earning an AWS Solutions Architect Associate Certification. Although I have earned my income as an electrical engineer over the past decade, technology has remained my primary motivation.
