@@ -1,6 +1,6 @@
 ---
 layout: single
-# classes: wide
+classes: wide
 permalink: /about/
 title: "Solving Problems and Working on the Cutting Edge"
 last_modified_at: 2020-05-19T12:15:22-04:00
