@@ -20,7 +20,7 @@ title                    : "Scott Curtis"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Scott Curtis, P.E."
-description              : "An amazing website."
+description              : " "
 url                      : "https://anodeedge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "anodeedge/anodeedge.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Scott Curtis, P.E."
   avatar           : "/assets/images/author.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Autodidact Site Reliability and Electrical Engineer"
+  bio              : "Autodidact Site Reliability Engineer and Professional Electrical Engineer"
   location         : "New York"
   email            :
   links:

@@ -15,7 +15,7 @@ author_profile: true
 <a href="#" class="btn btn--primary btn--default">Click Here to Download Resume PDF</a>
 
 ## Career Objective
-Seeking a position of Site Reliability Engineer to put passion and skills towards helping the business meet strategic and operational goals by identifying opportunities to optimize existing processes and utilize new technology cost effectively. Possess expertise in hardware, cloud architecture, CI/CD tools, superior technical aptitude, and proven ability to work in collaborative environments.
+Seeking a position as a Site Reliability Engineer to put passion and skills towards helping the business meet strategic and operational goals by identifying opportunities to optimize existing processes and utilize new technology cost effectively. Possess expertise in hardware, cloud architecture, CI/CD tools, superior technical aptitude, and proven ability to work in collaborative environments.
 
 ## Licenses and Certifications
 
@@ -26,7 +26,7 @@ Seeking a position of Site Reliability Engineer to put passion and skills toward
 
 ## Skills and Tools
 **General Programming** <br>
-*Python, Bash, Javascript*<br>
+*Python, Bash, Javascript, C++*<br>
 **Cloud** <br>
 *AWS*<br>
 **Automation**<br>

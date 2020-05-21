@@ -1,18 +1,19 @@
 ---
 layout: single
-classes: wide
 permalink: /about/
-title: "Solving Problems and Working on the Cutting Edge"
-last_modified_at: 2020-05-19T12:15:22-04:00
+title: "Solving Problems for Problem Solvers"
+last_modified_at: 2020-05-21T12:15:22-04:00
 author_profile: true
+header:
+  image:
 ---
-  
-A skilled and creative problem solver, I understand how to take both a wide and a narrow look at situations in order to figure out how to navigate them efficiently. I am passionate about technology, finding inspiration in each new project that I take on, and it was the challenge that initially drew me to electrical engineering, the field where I started my career. Seeing the breadth of opportunities available in the software development field, I have since worked towards pivoting to DevOps and Site Reliability, and I am eager to participate in unique and cutting-edge projects.
-{: style="text-align: justify" } 
-Currently, I work as an electrical engineer with more than eight years, accruing a wealth of experience applicable not only to electrical engineering but to technology and analysis in general. Working in a highly collaborative field, I have developed a sense of how teams work effectively. I have also extensively researched and studied the technology topics that I have found most interesting, including high availability architecture, CI/CD pipelines, and 3D printing. I have spent significant time working with each of these interests on my own: overseeing 3D prints, deploying apps, and earning an AWS Solutions Architect Associate Certification. Although I have earned my income as an electrical engineer over the past decade, technology has remained my primary motivation.
-{: style="text-align: justify" } 
-Throughout my career, I have overseen projects in multiple environments and industries, including fossil, hydro, nuclear power plants, substations, and wastewater treatment plants. I am deeply flexible, taking to new projects quickly and approaching problems analytically. Although DevOps is a shift for me, it is a shift for which I have spent years preparing, the mindsets and the strategies that I have honed, readily applicable to the technology projects that I hope to take on. 
-{: style="text-align: justify" } 
+Hi, I'm Scott Curtis, a licensed professional electrical engineer and aspiring site reliability engineer.
+###### What I Do: 
+I learn the tools and skills to help developers and operations quickly and effectively deliver and maintain products by providing a means to offer seamless integration, deployment, and delivery with a focus on cost, availability, reliability, scalability, and maintainability.  Ultimately, my goal is to optimize and automate myself out of a job.
+###### Why I Do It:
+I enjoy being a generalist who gets to work on a vast range of technical problems. Due to the explosive growth of cloud services and devops tools, there is a never-ending wealth of resources to choose from for any given project.  The practice and philosophy of devops strongly correlates with my goal of providing QoL improvements to both problem solvers, and customers.
+<!-- {: style="text-align: justify" }  -->
+
 <!-- In general, organize and categorize your purposes  -->
 <!-- This language is very software dev/web dev orientated. Use language that focuses on devops priorities and core values -->
 <!-- A skilled and creative problem solver, Scott understands how to take both a wide and a narrow look at situations in order to figure out how to navigate them efficiently. He is passionate about technology, finding inspiration in each new project that he takes on, and it was the challenge that initially drew him to electrical engineering, the field where he started his career. Seeing the breadth of opportunities available in the software development field, he has since pivoted to DevOps, and he is eager to participate in unique and cutting-edge projects.
@@ -32,5 +33,3 @@ Programming, web development, robotics, math: these were Scott's obsessions duri
 In his career, Scott has overseen projects in multiple environments, including fossil, hydro, nuclear power plants, substations, and wastewater treatment plants. He is deeply flexible, taking to new projects quickly and approaching problems analytically. Although DevOps is a shift for him, it is a shift for which he has spent years preparing, the mindsets and the strategies that he has honed readily applicable to the technology projects that he hopes to take on.
 
 A graduate of Stevens Institute of Technology, Scott earned his Bachelor's Degree in Electrical Engineering. In his free time, he enjoys playing the piano. -->
-
----
