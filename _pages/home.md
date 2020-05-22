@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download Resume PDF"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  Engineering a bigger box to think outside of...
+  Solving problems for problem solvers so they can quickly and easily deliver reliable, durable, available, and maintainable solutions.
 ---
 
 
