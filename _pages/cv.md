@@ -53,12 +53,13 @@ Seeking a position as a Site Reliability Engineer to put passion and skills towa
 • Coordinated with multiple engineering disciplines for the completion of complex projects.   
 • Provided oversight and delegated tasks to drafters and designers.   
 
-### Pickitup - Contractor, Site Reliability Engineer
+### Pickitup Inc. - Contractor (Site Reliability Engineer)
 ![Pickitup](/assets/images/pickitup.png){: style="float: left; margin-right: 2em" } 
-*X XXX - X XXX*  
-*New Jersey*<br>
+*May 2017 - May 2018*  
+*Dover, Delaware*<br>
 <br>
 <br>
+• Collaborated on POC identifying multiple objects displayed on screen utilizing OpenCV and TensorFlow libraries
 • Architected virtual private clouds (VPCs) hosted on Amazon AWS.  
 • Utilized Github and Jenkins to create a development process for continuous integration and deployment (CI/CD) to the cloud.  
 <!-- • Orchestrated Docker images on Amazon Elastic Container Services (ECS) for automatic scalability and elasticity, deploying or terminating EC2 instances dependent on load -->
