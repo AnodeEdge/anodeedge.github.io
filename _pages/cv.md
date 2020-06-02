@@ -2,10 +2,10 @@
 layout: single
 permalink: /cv/
 title: "Cirriculum Vitæ"
-header:
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+# header:
+#   actions:
+#     - label: "More Info"
+#       url: "https://unsplash.com"
 toc: true
 toc_sticky: true
 toc_label: "Shortcuts"
@@ -26,17 +26,17 @@ Seeking a position as a Site Reliability Engineer to put passion and skills towa
 
 ## Skills and Tools
 **General Programming** <br>
-*Python, Bash, Javascript, C++*<br>
+*Python, Bash, Javascript, C++, MySQL*<br>
 **Cloud** <br>
 *AWS*<br>
 **Automation**<br>
 *Jenkins, Terraform*<br>
 **Back-end**<br>
-*Flask*<br>
+*Flask, Docker, Kubernetes*<br>
 **Front-end**<br>
 *React.js*<br>
 **Database**<br>
-*MongoDB*<br>
+*MongoDB, RDS*<br>
 
 ## Work and Professional Experience
 ### Arcadis - Staff Electrical Engineer
@@ -44,80 +44,56 @@ Seeking a position as a Site Reliability Engineer to put passion and skills towa
 *May 2017 - Present*  
 *White Plains, New York*<br>
 <br>
-<br>
-• Prepared and Evaluated Cost Estimates for Cable, Conduit, Labor, and Electrical Equipment.   
-• Utilized AutoCAD MEP to generate Plan Drawings, One-Diagrams, Front Views, Control Diagrams, and Block Diagrams.   
-• Managed Designers and Drafters to design and generate drawings and schematics.   
-• Performed Site Visits and Walkdowns to identify and address plant and site-specific details.   
-• Generated SKM Models of electrical distribution and performed Load Flow, Short Circuit, Relay Coordination, and Arc Flash studies.   
-• Coordinated with multiple engineering disciplines for the completion of complex projects.   
-• Provided oversight and delegated tasks to drafters and designers.   
+*	Project electrical engineer responsible for leading the electrical design effort for multiple complex projects simultaneously.  
+*	Standardized drawings and processes to streamline repetitive boilerplate tasks to reduce impact on budget.    
+*	Directed designers and drafters in generating drawings and schematics.   
+*	Conducted site visits and walkdowns to identify and address site specific challenges.  
+*	Modeled electrical distribution systems using power system analysis tool SKM and performed Load Flow, Short Circuit, Relay Coordination, and Arc-flash studies.  
+*	Coordinated with multiple engineering disciplines frequently to effectively deliver a complete design and to minimize conflicts.  
+*	Reviewed designs, specifications, and submittals for QA/QC.  
+*	Authored technical reports, memos, specifications, instructions, and documentation for clients, and internal use.  
+* Utilized AutoCAD MEP to generate Plan Drawings, One-Diagrams, Front Views, Control Diagrams, and Block Diagrams.  
+* Prepared and Evaluated Cost Estimates for Cable, Conduit, Labor, and Electrical Equipment.    
 
 ### Pickitup Inc. - Contractor (Site Reliability Engineer)
 ![Pickitup](/assets/images/pickitup.png){: style="float: left; margin-right: 2em" } 
 *May 2017 - May 2018*  
 *Dover, Delaware*<br>
 <br>
-<br>
-• Collaborated on POC identifying multiple objects displayed on screen utilizing OpenCV and TensorFlow libraries
-• Architected virtual private clouds (VPCs) hosted on Amazon AWS.  
-• Utilized Github and Jenkins to create a development process for continuous integration and deployment (CI/CD) to the cloud.  
-<!-- • Orchestrated Docker images on Amazon Elastic Container Services (ECS) for automatic scalability and elasticity, deploying or terminating EC2 instances dependent on load -->
-<!-- • Created AWS S3 buckets for high availability of object storage for application photos and media, and stored corresponding pre-signed URLs through AWS RDS -->
-<!-- • Integrated a CI/CD process through Jenkins pipelines utilizing Docker and AWS ECR/ECS services; allowing continuous integration and deployment of new code and features to the production environment -->
-<!-- • Routed global data and media through AWS Cloudfront content delivery network (CDN) and managed incoming network traffic load via elastic load balancing -->
-<!-- • Managed and documented many of the application services hosted on AWS, including Gitlab, Confluence and JIRA -->
-
+*	Integrated a CI/CD process through Jenkins pipelines utilizing Docker and AWS ECR/ECS services, allowing continuous integration and deployment of new code and features to the production environment.  
+*	Orchestrated Docker images on Amazon Elastic Container (ECS) for automated scalability and elasticity, deploying or terminating EC2 instances dependent on load.  
+*	Collaborated on POC identifying multiple objects displayed on screen utilizing OpenCV and TensorFlow libraries.  
+*	Utilized Github and Jenkins to create a development process for continuous integration and deployment (CI/CD) to the cloud.   
+  
 ### AECOM - Electrical Engineer I-IV
 ![AECOM](/assets/images/aecom.png){: style="float: left; margin-right: 2em" }
 *June 2012 - May 2017*  
 *Princeton, New Jersey*<br>
 <br>
-<br>
-480V Switchgear/MCC Replacement Project, Hydro Plants  
-• Prepared Load Flow, Short Circuit, Relay Coordination, and Arc-Flash calculations and studies using ETAP 12.5.0  
-• Assisted in creating specification documents for electrical distribution equipment  
-• Checked and Reviewed vendor prints  
-  
-Communications Upgrade Project  
-• Assisted in managing the engineering, procurement, and installation of a microwave system. Equipment includes 105 microwave radio hops, 10 fiber optic nodes, 50 pieces of digital cross connect   equipment, and an overall network management system.    
-• Conducted Factory Acceptance Test on racks, equipment, and software configuration.  
-• Performed preliminary grounding calculation for equipment sizing.  
-• Prepared engineering documents and drafted M.S. Visio drawings and modified AutoCAD drawings for Block & Level diagrams, Rack Views, and Traffic Plans.  
-  
-Power Line Carrier Relaying Modification for Substation  
-• Revised existing DC Schematics, AC Schematics, and Rack Front Views for line protection change.  
-• Designed new DC Schematics and Wiring diagrams per new relaying equipment and racks based on reference drawings.  
-  
-Substation 69kV Upgrade Project  
-• Reviewed drawings, vendor drawings, specifications, and calculations  
-• Drafted control house specifications for four substations.  
-  
-Diesel Generator Calculation for Nuclear Power Plant  
-• Completed model on AC systems using ETAP 7.1 The calculation evaluated a supplemental diesel generator and additional ancillary loads versus various voltage and current acceptance criteria. Tests   included load flow analysis, short circuit analysis, and static motor starting analysis.  
-  
-Battery Sizing Calculation  
-• Generated Control System Diagrams in ETAP 7.1 for Battery Sizing for Nuclear Power Plant  
+* Prepared Load Flow, Short Circuit, Battery Sizing, Relay Coordination, Static Motor Starting, and Arc-Flash calculations and studies using ETAP 12.5.0  for Hydro and Nuclear Power Plants.  
+* Authored specification documents for electrical distribution equipment.  
+* Checked and Reviewed vendor data sheets, specifications, and calculations.   
+*	Monitored the engineering, procurement, and installation of a microwave system, which included 105 microwave hops, 10 fiber optic nodes, 50 pieces of digital cross connect equipment, and an overall network management system.   
+* Conducted Factory Acceptance Test on racks, equipment, and software configuration.   
+* Prepared engineering documents and drafted drawings for Block & Level diagrams, Rack Views, and Network Traffic Plans.  
+* Drafted new and existing DC Schematics and Wiring diagrams per new relaying equipment and racks based on reference drawings.  
 
 ### URS Corporation - Electrical Engineering Intern
 ![URS](/assets/images/urs.png){: style="float: left; margin-right: 2em" }
 *July 2011 - Aug. 2011*  
 *Princeton, New Jersey*<br>
 <br>
-<br>
-PSE&G Solar4All Project  
-• Inspected pole mounted photovoltaics for damage, placement, and deployment per requirements and specifications  
-• Generated reports of data and observations of solar panel field inspections  
+* Inspected pole mounted photovoltaics for damage, placement, and deployment per requirements and specifications  
+* Generated reports of data and observations of solar panel field inspections  
 
 ### Tadco Engineering & Environmental Serivces, LLC. - Engineering Intern
 ![Tadco](/assets/images/tadco.png){: style="float: left; margin-right: 2em" }
 *June 2010 - Aug. 2010*  
 *Jersey City, New Jersey*<br>
 <br>
-<br>
-• Utilized TurboCAD to generate drawings of property.  
-• Drafted Remedial Action Reports for NJDEP Permitting  
-• Provided basic IT support   
+* Utilized TurboCAD to generate drawings of property.  
+* Drafted Remedial Action Reports for NJDEP Permitting  
+* Provided basic IT support   
 
 ## Education
 ### Stevens Institute of Technology   
