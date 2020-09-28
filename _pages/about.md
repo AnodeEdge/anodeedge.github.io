@@ -7,7 +7,7 @@ author_profile: true
 header:
   image:
 ---
-Hi, I'm Scott Curtis, a licensed professional electrical engineer and aspiring site reliability engineer.
+Hi, I'm Scott Curtis, a licensed professional electrical engineer and site reliability engineer.
 ###### What I Do: 
 I learn the tools and skills to help developers and operations quickly and effectively deliver and maintain products by providing a means to offer seamless integration, deployment, and delivery with a focus on cost, availability, reliability, scalability, and maintainability.  Ultimately, my goal is to optimize and automate myself out of a job.
 
