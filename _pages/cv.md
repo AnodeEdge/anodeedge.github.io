@@ -31,9 +31,9 @@ Seeking a position as a Site Reliability Engineer to put passion and skills towa
 **General Programming** <br>
 _Python, Bash, Javascript, Git_<br>
 **Cloud** <br>
-_AWS - EC2, IAM, Elastic Beanstalk, S3, Elastic Load Balancer, DeveloperTools_<br>
+_AWS - EC2, IAM, Elastic Beanstalk, S3, Elastic Load Balancer, CodeCommit, CodeBuild, CodeDeploy, VPC, IAM_<br>
 **Automation**<br>
-_AWS CodePipeline, Jenkins, Terraform_<br>
+_AWS CodePipeline, Terraform_<br>
 **Containerization**<br>
 _Docker_<br>
 **Front-end**<br>
@@ -62,15 +62,16 @@ _White Plains, New York_<br>
 - Directed designers and drafters in generating drawings and schematics.
 - Conducted site visits and walkdowns to identify and address site specific challenges.
 
-### Pickitup Inc. - Contractor (Site Reliability Engineer)
+### Pickitup Technologies LLC - Contractor (Site Reliability Engineer)
 
 ![Pickitup](/assets/images/pickitup.png){: style="float: left; margin-right: 2em" }
-_May 2017 - May 2018_  
-_Dover, Delaware_<br>
+_May 2018 - May 2019_  
+_Bayonne, New Jersey_<br>
 <br>
 
-- Integrated a CI/CD process through AWS Pipeline utilizing GitHub, Docker and AWS ECR/ECS services, allowing continuous integration and deployment of new code and features to the production environment.
-- Orchestrated Docker images on Amazon Elastic Container (ECS) for automated scalability and elasticity, deploying or terminating EC2 instances based on load.
+- Integrated CI/CD processes through two AWS Pipelines which leveraged GitHub and ECR as repositories and ECS for deployment, allowing continuous integration and deployment for new code and features to the production environment.
+- Managed IAM users, groups, policies and roles following principle of least privilege to enhance system security and system stability.
+- Architected virtual private clouds (VPCs) on the AWS platform, including configuration of public and private subnets, route tables, and network access control lists.
 
 ### AECOM - Electrical Engineer I-IV
 
