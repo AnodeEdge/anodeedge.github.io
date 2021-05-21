@@ -1,6 +1,11 @@
 ---
 layout: splash
 permalink: /
+header:
+    overlay_image: /assets/images/splash.png
+    actions: 
+        - label: "Learn More"
+        - url: "/about/"
 hidden: true
 ---
 <div style="margin: 0; position: absolute; top: 40%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%)">

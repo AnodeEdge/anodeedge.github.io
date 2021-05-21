@@ -8,7 +8,7 @@ header:
   image:
 ---
 
-Hi, I'm Scott Curtis, software developer and a licensed professional electrical engineer.
+Hi, I'm Scott Curtis, software engineer and a licensed professional electrical engineer.
 
 ###### What I Do:
 
