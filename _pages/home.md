@@ -1,16 +1,22 @@
 ---
-layout: splash
+layout: single
+classes:
+    # - test
 permalink: /
 header:
+    # overlay_image: https://via.placeholder.com/800x350
     overlay_color: "black"
+    # color: "gray"
     actions:
     - label: "Learn More"
       url: "/about/"
 excerpt: "Software Engineer, Licensed Electrical Engineer"
-    
-# overlay_image: /assets/images/splash.png
-# hidden: true
+overlay_image: /assets/images/splash.png
+hidden: true
 ---
+<style>
+    /* .page__hero--overlay {height: 800px;} */
+</style>
 
 <!-- <div style="margin: 0; position: absolute; top: 40%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%)">
 <center><h1 style="font-size:4vh;">Scott Curtis</h1></center>
