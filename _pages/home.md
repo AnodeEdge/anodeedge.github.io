@@ -1,7 +1,7 @@
 ---
 layout: single
 classes:
-    # - test
+    - test
 permalink: /
 header:
     # overlay_image: https://via.placeholder.com/800x350
@@ -16,6 +16,8 @@ hidden: true
 ---
 <style>
     /* .page__hero--overlay {height: 800px;} */
+    /* .initial-content {background-color: "black"} */
+
 </style>
 
 <!-- <div style="margin: 0; position: absolute; top: 40%; left: 50%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%)">

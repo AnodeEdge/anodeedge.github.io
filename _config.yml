@@ -25,8 +25,8 @@ url: "https://anodeedge.github.io" # the base hostname & protocol for your site 
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "anodeedge/anodeedge.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "Continuous Learning" # overrides the website title displayed in the masthead, use " " for no title
+logo: "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: "CI/CLearning" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -250,12 +250,27 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  projects: 
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

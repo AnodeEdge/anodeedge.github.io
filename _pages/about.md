@@ -16,7 +16,7 @@ Hi, I'm Scott Curtis, software engineer and a licensed professional electrical e
 
 **Solving problems is my jam.** Engineering is my bread.  I became an engineer knowing that I have a proclivity for technical problems and an aptitude for systematic problem solving.  I've always had a passion for science and technology. 
 
-**I want to do things right.**  Whether it is by having clean code, developing a complete design, or architecting a scalable and reliable architecture, I always want to create something that I will be proud of and that will ultimately be easy and reliable to use.  Meeting commitments and fulfilling promises is very important to me.
+**I want to do things right.**  Whether it is by having clean code, developing a complete design, or architecting a scalable and reliable infrastructure, I always want to create something that I will be proud of and that will ultimately be easy and reliable to use.  Meeting commitments and fulfilling promises is very important to me.
 
 ### Why I Do It:
 
@@ -30,6 +30,6 @@ I am stimulated by tackling unique problems and being a generalist who gets to w
 • Computer Architecture  
 • 3D Printing  
 • Electronics  
-• DIY Projects
+• DIY Projects 
 • Music
 

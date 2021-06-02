@@ -17,7 +17,7 @@ author_profile: true
 
 ## Career Objective
 
-Seeking a position as a Site Reliability Engineer to put passion and skills towards helping the business meet strategic and operational goals by identifying opportunities to optimize existing processes and utilize new technology cost effectively. Possess expertise in hardware, cloud architecture, CI/CD tools, superior technical aptitude, and proven ability to work in collaborative environments.
+Seeking a position as a software engineer to put passion and skills towards helping meet goals by implementing new features, identifying opportunities to optimize existing processes and utilize new technologies if beneficial. Possesses expertise in hardware, cloud architecture, CI/CD,  technical aptitude, and proven ability to work in collaborative environments.
 
 ## Licenses and Certifications
 
@@ -43,7 +43,7 @@ _MongoDB, SQL_<br>
 
 ## Work and Professional Experience
 
-### Arcadis - Staff Electrical Engineer
+### Arcadis - Electrical Engineer
 
 ![Arcadis](/assets/images/arcadis.png){: style="float: left; margin-right: 2em" }
 _May 2017 - Present_  
@@ -65,7 +65,7 @@ _White Plains, New York_<br>
 ### Pickitup Technologies LLC - Contractor (Site Reliability Engineer)
 
 ![Pickitup](/assets/images/pickitup.png){: style="float: left; margin-right: 2em" }
-_May 2018 - May 2019_  
+_May 2017 - May 2018_  
 _Bayonne, New Jersey_<br>
 <br>
 
