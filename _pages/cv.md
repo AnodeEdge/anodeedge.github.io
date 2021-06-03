@@ -13,7 +13,7 @@ last_modified_at: 2020-09-19T12:15:22-04:00
 author_profile: true
 ---
 
-<a href="/assets/docs/RESUME.pdf" class="btn btn--primary btn--default">Click Here to Download Resume PDF</a>
+<a href="/assets/docs/resume.pdf" class="btn btn--primary btn--default">Click Here to Download Resume PDF</a>
 
 ## Career Objective
 
